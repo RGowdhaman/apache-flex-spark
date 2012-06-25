@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1284173/incubator/flex/trunk/frameworks/projects/spark/src/spark/effects/interpolation
+END
+RGBInterpolator.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1284173/incubator/flex/trunk/frameworks/projects/spark/src/spark/effects/interpolation/RGBInterpolator.as
+END
+HSBInterpolator.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1284115/incubator/flex/trunk/frameworks/projects/spark/src/spark/effects/interpolation/HSBInterpolator.as
+END
+MultiValueInterpolator.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1284144/incubator/flex/trunk/frameworks/projects/spark/src/spark/effects/interpolation/MultiValueInterpolator.as
+END
+IInterpolator.as
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1284127/incubator/flex/trunk/frameworks/projects/spark/src/spark/effects/interpolation/IInterpolator.as
+END
+NumberInterpolator.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1284159/incubator/flex/trunk/frameworks/projects/spark/src/spark/effects/interpolation/NumberInterpolator.as
+END
