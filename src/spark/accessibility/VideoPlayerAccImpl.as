@@ -260,7 +260,7 @@ use namespace mx_internal;
  */
 public class VideoPlayerAccImpl extends AccImpl
 {
-    include "../core/Version.as";
+
 
 	//--------------------------------------------------------------------------
 	//

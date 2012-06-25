@@ -50,7 +50,7 @@ package spark.primitives
      */
     public class RectangularDropShadow extends UIComponent
     {
-        include "../core/Version.as";
+    
             
         //--------------------------------------------------------------------------
         //

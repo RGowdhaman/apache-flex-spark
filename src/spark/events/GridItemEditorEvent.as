@@ -1,4 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
+﻿////////////////////////////////////////////////////////////////////////////////
 //
 //  Licensed to the Apache Software Foundation (ASF) under one or more
 //  contributor license agreements.  See the NOTICE file distributed with
@@ -52,7 +52,7 @@ import spark.components.gridClasses.GridColumn;
  */
 public class GridItemEditorEvent extends Event
 {
-    include "../core/Version.as";    
+    
     
     //--------------------------------------------------------------------------
     //

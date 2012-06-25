@@ -42,7 +42,7 @@ use namespace mx_internal;
  */
 public final class LastOperationStatus
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

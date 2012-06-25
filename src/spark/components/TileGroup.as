@@ -80,7 +80,7 @@ import spark.layouts.supportClasses.LayoutBase;
  */
 public class TileGroup extends Group
 {
-    include "../core/Version.as";
+
     
     /**
      *  Constructor. 

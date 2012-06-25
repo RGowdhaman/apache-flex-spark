@@ -123,7 +123,7 @@ use namespace mx_internal;
  */
 public class RichEditableTextAccImpl extends AccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

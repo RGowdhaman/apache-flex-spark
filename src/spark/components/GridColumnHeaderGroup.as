@@ -339,7 +339,7 @@ use namespace mx_internal;
  */
 public class GridColumnHeaderGroup extends Group implements IDataGridElement
 {
-    include "../core/Version.as";
+
     
     /**
      *  Constructor.

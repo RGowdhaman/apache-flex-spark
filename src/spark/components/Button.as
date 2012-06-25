@@ -134,7 +134,7 @@ import mx.core.IButton;
  */
 public class Button extends ButtonBase implements IButton
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

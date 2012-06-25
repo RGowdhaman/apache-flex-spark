@@ -104,7 +104,7 @@ import spark.components.supportClasses.SliderBase;
  */
 public class VSlider extends SliderBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

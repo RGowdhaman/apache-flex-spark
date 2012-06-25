@@ -64,7 +64,7 @@ use namespace mx_internal;
  */
 public class RemoveAction extends Effect
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

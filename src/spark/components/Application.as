@@ -220,7 +220,7 @@ use namespace mx_internal;
  */
 public class Application extends SkinnableContainer
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

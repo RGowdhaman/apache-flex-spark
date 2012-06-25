@@ -33,7 +33,7 @@ package spark.core
  */
 public final class MaskType
 {
-    include "../core/Version.as";
+
 
     /**
      *  The mask either displays the pixel or does not. 

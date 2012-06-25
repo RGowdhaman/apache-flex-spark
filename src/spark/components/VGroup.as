@@ -75,7 +75,7 @@ import spark.layouts.supportClasses.LayoutBase;
  */
 public class VGroup extends Group
 {
-    include "../core/Version.as";
+
     
     /**
      *  Constructor. 

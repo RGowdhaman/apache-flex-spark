@@ -119,7 +119,7 @@ use namespace mx_internal;
  */  
 public class AnimateTransform extends Animate
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

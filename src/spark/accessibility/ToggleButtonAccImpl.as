@@ -125,7 +125,7 @@ use namespace mx_internal;
  */
 public class ToggleButtonAccImpl extends ButtonBaseAccImpl
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

@@ -181,7 +181,7 @@ import spark.components.Group;
 public class ModuleLoader extends Group
                           implements INavigatorContent
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

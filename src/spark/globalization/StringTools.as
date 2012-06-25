@@ -60,7 +60,7 @@ use namespace mx_internal;
  */
 public class StringTools extends GlobalizationBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

@@ -345,7 +345,7 @@ include "../styles/metadata/SelectionFormatTextStyles.as"
 public class SkinnableContainer extends SkinnableContainerBase 
        implements IDeferredContentOwner, IVisualElementContainer
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

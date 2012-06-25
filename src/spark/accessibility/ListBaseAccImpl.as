@@ -57,7 +57,7 @@ use namespace mx_internal;
  */
 public class ListBaseAccImpl extends AccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

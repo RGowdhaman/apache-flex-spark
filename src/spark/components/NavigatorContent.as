@@ -77,7 +77,7 @@ import mx.core.INavigatorContent
 public class NavigatorContent extends SkinnableContainer 
        implements INavigatorContent
 {
-    include "../core/Version.as";
+
     
 
     //--------------------------------------------------------------------------

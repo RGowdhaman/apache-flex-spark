@@ -126,7 +126,7 @@ use namespace mx_internal;
  */
 public class ButtonBaseAccImpl extends AccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

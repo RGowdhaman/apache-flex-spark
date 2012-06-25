@@ -243,7 +243,7 @@ include "../styles/metadata/BasicNonInheritingTextStyles.as"
  */
 public class Label extends TextBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

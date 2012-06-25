@@ -156,7 +156,7 @@ use namespace mx_internal;
  */
 public class DropDownListBaseAccImpl extends ListBaseAccImpl
 {
-    include "../core/Version.as";
+
     
     //-------------------------------------------------------------------------
     //

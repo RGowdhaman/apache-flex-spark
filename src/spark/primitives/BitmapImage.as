@@ -175,7 +175,7 @@ use namespace mx_internal;
  */
 public class BitmapImage extends GraphicElement
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

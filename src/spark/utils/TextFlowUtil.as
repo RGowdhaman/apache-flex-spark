@@ -49,7 +49,7 @@ use namespace tlf_internal;
  */
 public class TextFlowUtil
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

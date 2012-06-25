@@ -441,7 +441,7 @@ package spark.components
         implements IFocusManagerComponent, IIMESupport, ISystemCursorClient, 
                    IViewport, IEditableText
     {
-        include "../core/Version.as";
+    
         
         //--------------------------------------------------------------------------
         //

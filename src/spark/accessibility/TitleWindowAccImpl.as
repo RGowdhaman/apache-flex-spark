@@ -135,7 +135,7 @@ use namespace mx_internal;
  */
 public class TitleWindowAccImpl extends PanelAccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

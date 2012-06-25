@@ -122,7 +122,7 @@ use namespace mx_internal;
  */
 public class PanelAccImpl extends AccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

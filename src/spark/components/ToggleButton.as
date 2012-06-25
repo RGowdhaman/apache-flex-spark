@@ -93,7 +93,7 @@ import spark.components.supportClasses.ToggleButtonBase;
  */
 public class ToggleButton extends ToggleButtonBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

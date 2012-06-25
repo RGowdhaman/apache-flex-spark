@@ -137,7 +137,7 @@ use namespace mx_internal;
  */
 public class TabBarAccImpl extends ButtonBarBaseAccImpl
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

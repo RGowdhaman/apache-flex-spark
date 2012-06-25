@@ -48,7 +48,7 @@ use namespace mx_internal;
  */
 public class TextUtil
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

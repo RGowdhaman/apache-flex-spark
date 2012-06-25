@@ -116,7 +116,7 @@ use namespace mx_internal;
  */
 public class RadioButtonAccImpl extends CheckBoxAccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

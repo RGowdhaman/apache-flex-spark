@@ -103,7 +103,7 @@ use namespace mx_internal;
  */
 public class HSlider extends SliderBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

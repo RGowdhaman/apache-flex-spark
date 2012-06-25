@@ -237,7 +237,7 @@ use namespace mx_internal;
  */
 public class Spinner extends Range implements IFocusManagerComponent
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

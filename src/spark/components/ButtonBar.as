@@ -127,7 +127,7 @@ use namespace mx_internal;  //ListBase and List share selection properties that 
  */
 public class ButtonBar extends ButtonBarBase implements IFocusManagerComponent 
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

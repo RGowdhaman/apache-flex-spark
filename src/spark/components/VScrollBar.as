@@ -131,7 +131,7 @@ use namespace mx_internal;
  */
 public class VScrollBar extends ScrollBarBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

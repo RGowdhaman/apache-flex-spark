@@ -394,7 +394,7 @@ use namespace mx_internal;  //ListBase and List share selection properties that 
  */
 public class List extends ListBase implements IFocusManagerComponent
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

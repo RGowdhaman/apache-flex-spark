@@ -152,7 +152,7 @@ use namespace mx_internal;
  */
 public class RadioButtonGroup extends EventDispatcher implements IMXMLObject
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

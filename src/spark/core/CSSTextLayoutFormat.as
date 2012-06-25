@@ -49,7 +49,7 @@ package spark.core
      */
     public class CSSTextLayoutFormat extends TextLayoutFormat
     {
-        include "../core/Version.as";
+    
         
         //--------------------------------------------------------------------------
         //

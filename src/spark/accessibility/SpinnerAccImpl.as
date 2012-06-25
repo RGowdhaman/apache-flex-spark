@@ -138,7 +138,7 @@ use namespace mx_internal;
  */
 public class SpinnerAccImpl extends AccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

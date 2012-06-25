@@ -164,7 +164,7 @@ import spark.globalization.SortingCollator;
  */
 public class SortField extends AdvancedStyleClient implements ISortField
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

@@ -71,7 +71,7 @@ use namespace mx_internal;
  */   
 public class Scale extends AnimateTransform
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

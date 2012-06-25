@@ -60,7 +60,7 @@ import mx.events.FlexEvent;
  */
 public class DataRenderer extends Group implements IDataRenderer
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

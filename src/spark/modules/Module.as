@@ -62,7 +62,7 @@ import spark.components.SkinnableContainer;
 public class Module extends SkinnableContainer 
        implements IModule
 {
-    include "../core/Version.as";
+
     
 
     //--------------------------------------------------------------------------

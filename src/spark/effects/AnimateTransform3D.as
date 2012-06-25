@@ -91,7 +91,7 @@ use namespace mx_internal;
  */  
 public class AnimateTransform3D extends AnimateTransform
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

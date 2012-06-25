@@ -74,7 +74,7 @@ use namespace mx_internal;
  */       
 public class Rotate3D extends AnimateTransform3D
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

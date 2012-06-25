@@ -137,7 +137,7 @@ use namespace mx_internal;  // ListBase/setCurrentCaretIndex(index);
  */
 public class TabBar extends ButtonBarBase implements IFocusManagerComponent
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

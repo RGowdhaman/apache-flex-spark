@@ -747,7 +747,7 @@ include "../styles/metadata/BasicInheritingTextStyles.as"
 public class DataGrid extends SkinnableContainerBase 
     implements IFocusManagerComponent, IIMESupport
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

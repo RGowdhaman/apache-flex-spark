@@ -133,7 +133,7 @@ use namespace mx_internal;
  */
 public class HScrollBar extends ScrollBarBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

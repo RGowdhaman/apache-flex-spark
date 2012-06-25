@@ -1,4 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
+﻿////////////////////////////////////////////////////////////////////////////////
 //
 //  Licensed to the Apache Software Foundation (ASF) under one or more
 //  contributor license agreements.  See the NOTICE file distributed with
@@ -20,7 +20,7 @@
 package spark.events
 {
 
-import flash.events.Event
+	import flash.events.Event;
 
 /**
  *  The DropDownEvent class represents the event object passed to 
@@ -33,7 +33,7 @@ import flash.events.Event
  */
 public class DropDownEvent extends Event
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

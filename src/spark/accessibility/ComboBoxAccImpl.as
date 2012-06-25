@@ -168,7 +168,7 @@ use namespace mx_internal;
  */
 public class ComboBoxAccImpl extends DropDownListBaseAccImpl
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

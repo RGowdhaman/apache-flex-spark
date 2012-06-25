@@ -140,7 +140,7 @@ use namespace mx_internal;
  */
 public class ListAccImpl extends ListBaseAccImpl
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

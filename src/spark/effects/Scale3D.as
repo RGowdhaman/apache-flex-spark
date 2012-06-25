@@ -79,7 +79,7 @@ use namespace mx_internal;
  */   
 public class Scale3D extends AnimateTransform3D
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

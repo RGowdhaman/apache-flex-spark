@@ -117,7 +117,7 @@ use namespace mx_internal;
  */
 public class DropDownList extends DropDownListBase
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

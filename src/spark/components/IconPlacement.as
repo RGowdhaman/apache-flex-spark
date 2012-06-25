@@ -32,7 +32,7 @@ package spark.components
      */
     public final class IconPlacement
     {
-        include "../core/Version.as";
+    
         
         //--------------------------------------------------------------------------
         //

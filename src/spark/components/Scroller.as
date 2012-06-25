@@ -493,7 +493,7 @@ include "../styles/metadata/SelectionFormatTextStyles.as"
 public class Scroller extends SkinnableComponent 
        implements IFocusManagerComponent, IVisualElementContainer
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

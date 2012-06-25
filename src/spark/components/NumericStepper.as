@@ -256,7 +256,7 @@ include "../styles/metadata/SelectionFormatTextStyles.as"
 public class NumericStepper extends Spinner 
     implements IFocusManagerComponent, IIMESupport
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

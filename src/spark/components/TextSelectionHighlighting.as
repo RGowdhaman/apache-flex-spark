@@ -39,7 +39,7 @@ package spark.components
  */
 public final class TextSelectionHighlighting
 {
-    include "../core/Version.as";
+
         
     //--------------------------------------------------------------------------
     //

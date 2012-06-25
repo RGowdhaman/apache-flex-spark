@@ -320,7 +320,7 @@ use namespace mx_internal;
  */
 public class DataGridAccImpl extends ListBaseAccImpl
 {
-    include "../core/Version.as";
+
 
     // See the DataGridAccImpl constructor for why this is not initialized here.
     private static var dgAccInfo:ItemAccInfo; // = new ItemAccInfo();

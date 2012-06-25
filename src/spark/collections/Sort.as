@@ -201,7 +201,7 @@ import mx.utils.ObjectUtil;
  */
 public class Sort extends AdvancedStyleClient implements ISort
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

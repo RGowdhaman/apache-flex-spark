@@ -76,7 +76,7 @@ use namespace mx_internal;
  */   
 public class Move extends AnimateTransform
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

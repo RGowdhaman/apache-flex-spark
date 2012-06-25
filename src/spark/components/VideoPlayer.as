@@ -509,7 +509,7 @@ include "../styles/metadata/BasicInheritingTextStyles.as";
  */
 public class VideoPlayer extends SkinnableComponent
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

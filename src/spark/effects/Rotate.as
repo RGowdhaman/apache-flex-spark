@@ -69,7 +69,7 @@ use namespace mx_internal;
  */   
 public class Rotate extends AnimateTransform
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

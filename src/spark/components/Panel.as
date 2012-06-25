@@ -203,7 +203,7 @@ use namespace mx_internal;
  */
 public class Panel extends SkinnableContainer
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

@@ -157,7 +157,7 @@ use namespace mx_internal;
  */
 public class RadioButton extends ToggleButtonBase implements IFocusManagerGroup
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

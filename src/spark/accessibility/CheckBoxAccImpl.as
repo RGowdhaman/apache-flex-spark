@@ -116,7 +116,7 @@ use namespace mx_internal;
  */
 public class CheckBoxAccImpl extends ButtonBaseAccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

@@ -63,7 +63,7 @@ use namespace mx_internal;
  */
 public class Path extends FilledElement
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

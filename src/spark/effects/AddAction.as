@@ -71,7 +71,7 @@ use namespace mx_internal;
  */
 public class AddAction extends Effect
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

@@ -105,7 +105,7 @@ use namespace mx_internal;
  */
 public class Animate extends Effect
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

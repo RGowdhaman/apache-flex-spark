@@ -1,4 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
+﻿////////////////////////////////////////////////////////////////////////////////
 //
 //  Licensed to the Apache Software Foundation (ASF) under one or more
 //  contributor license agreements.  See the NOTICE file distributed with
@@ -34,7 +34,7 @@ import flash.events.Event;
  */
 public class TrackBaseEvent extends Event
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

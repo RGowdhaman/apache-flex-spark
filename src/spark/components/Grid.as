@@ -228,7 +228,7 @@ use namespace mx_internal;
  */
 public class Grid extends Group implements IDataGridElement
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

@@ -80,7 +80,7 @@ use namespace mx_internal;
  */   
 public class Move3D extends AnimateTransform3D
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

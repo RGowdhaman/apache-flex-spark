@@ -1,4 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
+﻿////////////////////////////////////////////////////////////////////////////////
 //
 //  Licensed to the Apache Software Foundation (ASF) under one or more
 //  contributor license agreements.  See the NOTICE file distributed with
@@ -40,7 +40,7 @@ import spark.components.DataGrid;
  */
 public class GridSortEvent extends Event
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

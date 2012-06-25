@@ -70,7 +70,7 @@ use namespace mx_internal;
  */
 public class AnimateFilter extends Animate
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

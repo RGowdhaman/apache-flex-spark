@@ -208,7 +208,7 @@ use namespace mx_internal;
  */
 public class TitleWindow extends Panel
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

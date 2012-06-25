@@ -135,7 +135,7 @@ use namespace mx_internal;
  */
 public class NumericStepperAccImpl extends SpinnerAccImpl
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

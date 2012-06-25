@@ -32,7 +32,7 @@ package spark.effects
  */
 public class WipeDirection
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

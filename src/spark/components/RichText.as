@@ -234,7 +234,7 @@ include "../styles/metadata/AdvancedNonInheritingTextStyles.as"
  */
 public class RichText extends TextBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

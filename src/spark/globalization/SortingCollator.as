@@ -57,7 +57,7 @@ import spark.globalization.supportClasses.CollatorBase;
  */
 public class SortingCollator extends CollatorBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

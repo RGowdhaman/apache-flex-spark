@@ -33,7 +33,7 @@ import mx.core.DPIClassification;
  */
 public class MultiDPIBitmapSource
 {
-    include "../core/Version.as";
+
 
     /**
      *  The source to use if the <code>Application.runtimeDPI</code> 

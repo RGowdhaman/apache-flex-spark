@@ -45,7 +45,7 @@ import spark.primitives.supportClasses.StrokedElement;
  */
 public class Line extends StrokedElement
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

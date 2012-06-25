@@ -227,7 +227,7 @@ use namespace mx_internal;
  */
 public class TextInput extends SkinnableTextBase
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

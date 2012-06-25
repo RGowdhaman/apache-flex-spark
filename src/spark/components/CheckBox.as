@@ -140,7 +140,7 @@ use namespace mx_internal;
  */
 public class CheckBox extends ToggleButtonBase
 {
-    include "../core/Version.as";
+
     
     //--------------------------------------------------------------------------
     //

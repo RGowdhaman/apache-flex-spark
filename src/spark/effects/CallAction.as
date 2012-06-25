@@ -63,7 +63,7 @@ import spark.effects.supportClasses.CallActionInstance;
  */
 public class CallAction extends Effect
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

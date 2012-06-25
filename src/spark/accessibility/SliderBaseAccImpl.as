@@ -160,7 +160,7 @@ use namespace mx_internal;
  */
 public class SliderBaseAccImpl extends AccImpl
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //

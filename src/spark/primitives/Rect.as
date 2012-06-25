@@ -53,7 +53,7 @@ use namespace mx_internal;
  */
 public class Rect extends FilledElement
 {
-    include "../core/Version.as";
+
 
     //--------------------------------------------------------------------------
     //
